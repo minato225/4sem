@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Sender.dir/objects.a
+C:\mingw\mingw64\bin\ar.exe cr CMakeFiles\Sender.dir/objects.a @CMakeFiles\Sender.dir\objects1.rsp
+C:\mingw\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Sender.dir/objects.a -Wl,--no-whole-archive  -o Sender.exe -Wl,--out-implib,libSender.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sender.dir\linklibs.rsp

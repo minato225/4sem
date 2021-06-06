@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: unknown.binary:Lab8-1.0-SNAPSHOT:SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/unknown/binary/Lab8-1.0-SNAPSHOT/SNAPSHOT/Lab8-1.0-SNAPSHOT-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/unknown/binary/Lab8-1.0-SNAPSHOT/SNAPSHOT/Lab8-1.0-SNAPSHOT-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/unknown/binary/Lab8-1.0-SNAPSHOT/SNAPSHOT/Lab8-1.0-SNAPSHOT-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

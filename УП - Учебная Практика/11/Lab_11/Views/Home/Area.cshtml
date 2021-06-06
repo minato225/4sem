@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Area";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Your Convert text!</h1>
+    @foreach (var line in ViewBag.textBox)
+    {
+        <p style="font-size: @ViewBag.size">@line</p>
+    }
+</div>

@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to converter</h1>
+    <p>Insert your text and set size to convert.</p>
+
+    <form method="post" action="~/Home/Area">
+        <label>Size</label><br/>
+        <input type="number" name="size" required/><br/>
+        <label>Count of rows</label><br/>
+        <input type="number" name="count" required/><br/>
+        <label>Your Text here</label><br/>
+        <textarea oninput="auto_grow(this)" name="text" placeholder="Enter your text" required></textarea><br/>
+        <input type="submit" value="Convert it!"/>
+    </form>
+</div>
